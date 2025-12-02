@@ -10,7 +10,7 @@
 
 <p>Experience a fully functional desktop environment with draggable windows, glassmorphism UI, and buttery-smooth animations</p>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge)](https://harshsinha003.github.io/Portfolio_OS)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge)](https://portfolio-os-lyart.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/⭐_GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/harshsinha003/Portfolio_OS)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
